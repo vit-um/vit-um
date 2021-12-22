@@ -19,6 +19,9 @@
     <a href="https://www.gtk.org/docs/" target="_blank" rel="noreferrer">
         <img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" alt="javascript" width="50" height="50"/>
     </a>
+    <a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html" target="_blank" rel="noreferrer">
+        <img src=".espressif-systems-logo.png" alt="espressif" width="50" height="50"/>
+    </a>
 </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vit-um&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vit-um&layout=compact&theme=default&hide_border=true" /></a> |
