@@ -20,7 +20,7 @@
         <img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" alt="javascript" width="50" height="50"/>
     </a>
     <a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html" target="_blank" rel="noreferrer">
-        <img src=".espressif-systems-logo.png" alt="espressif" width="50" height="50"/>
+        <img src="espressif-systems-logo.png" alt="espressif" width="50" height="50"/>
     </a>
 </p>
 
