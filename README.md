@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vit-um&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
-<a https://github.com/vit-um/hass/wiki" target="_blank" rel="next">
+<a  href="https://github.com/vit-um/hass/wiki" target="_blank" rel="next">
 <img src="120_Home_Assistant_Logo.png"  width="25" height="25" alt="Home Assistant"> How install and setup Home Assistant on Raspberry PI (My Wiki) </a>
 </p>
 
