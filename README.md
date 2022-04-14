@@ -22,11 +22,14 @@
     <a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html" target="_blank" rel="noreferrer">
         <img src="espressif-systems-logo.png" alt="esp32 esp-idf" width="50" height="50"/>
     </a>
+    <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer">
+        <img src="120_Home_Assistant_Logo.png" alt="Home Assistant" width="50" height="50"/>
+    </a>  
 </p>
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Home Assistant"> How install and setup Home Assistant on Raspberry PI (My Wiki)
+<img src="120_Home_Assistant_Logo.png" alt="Home Assistant"> How install and setup Home Assistant on Raspberry PI (My Wiki)
 </a>
 </p>
 
