@@ -24,6 +24,12 @@
     </a>
 </p>
 
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Home Assistant"> How install and setup Home Assistant on Raspberry PI (My Wiki)
+</a>
+
+</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vit-um&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vit-um&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
