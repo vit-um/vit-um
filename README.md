@@ -28,6 +28,12 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="Python.svg" alt="Python" width="50" height="50"/>
     </a>  
+    <a href="https://docs.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="django-logo-svg-vector.svg" alt="Django" width="50" height="50"/>
+    </a>  
+    
+    
+    
 </p>
 
 
