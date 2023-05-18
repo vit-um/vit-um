@@ -26,7 +26,7 @@
         <img src="120_Home_Assistant_Logo.png" alt="Home Assistant" width="50" height="50"/>
     </a>  
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="120_Home_Assistant_Logo.png" alt="Home Assistant" width="50" height="50"/>
+        <img src="Python.svg" alt="Python" width="50" height="50"/>
     </a>  
 </p>
 
