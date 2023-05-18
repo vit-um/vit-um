@@ -16,6 +16,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
     </a>
+    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+        <img src="javascript-logo.png" alt="JavaScript" width="50" height="50"/>
+    </a>          
     <a href="https://www.gtk.org/docs/" target="_blank" rel="noreferrer">
         <img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" alt="gtk3" width="50" height="50"/>
     </a>
@@ -31,9 +34,6 @@
     <a href="https://docs.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="django-logo-svg-vector.svg" alt="Django" width="50" height="50"/>
     </a>  
-    <a href="https://javascript.info/" target="_blank" rel="noreferrer">
-        <img src="django-logo-svg-vector.svg" alt="JavaScript" width="50" height="50"/>
-    </a>      
 </p>
 
 
