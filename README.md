@@ -17,7 +17,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
     </a>
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-        <img src="javascript-logotip.png" alt="JavaScript" width="30" height="50"/>
+        <img src="javascript-logotip.png" alt="JavaScript" width="40" height="50"/>
     </a>          
     <a href="https://www.gtk.org/docs/" target="_blank" rel="noreferrer">
         <img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" alt="gtk3" width="50" height="50"/>
