@@ -31,9 +31,9 @@
     <a href="https://docs.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="django-logo-svg-vector.svg" alt="Django" width="50" height="50"/>
     </a>  
-    
-    
-    
+    <a href="https://javascript.info/" target="_blank" rel="noreferrer">
+        <img src="django-logo-svg-vector.svg" alt="JavaScript" width="50" height="50"/>
+    </a>      
 </p>
 
 
