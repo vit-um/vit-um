@@ -46,12 +46,12 @@
 <br><br>
 <a href="https://u8views.com/github/vit-um"><img src="https://u8views.com/api/v1/github/profiles/74271908/views/day-week-month-total-count.svg"></a>
 
+<br>
 <p align="left">
 <a  href="https://github.com/vit-um/hass/wiki" target="_blank" rel="next">
 <img src="120_Home_Assistant_Logo.png"  width="25" height="25" alt="Home Assistant"> How install and setup Home Assistant on Raspberry PI (My Wiki) </a>
 </p>
 
-[![VITALII UMANETS profile views](https://u8views.com/api/v1/github/profiles/74271908/views/day-week-month-total-count.svg)](https://u8views.com/github/vit-um)
 
 <!--  &layout=compact &include_all_commits=true
 **vit-um/vit-um** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
