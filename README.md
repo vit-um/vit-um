@@ -43,6 +43,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vit-um&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
+<br><br>
 <a href="https://u8views.com/github/vit-um"><img src="https://u8views.com/api/v1/github/profiles/74271908/views/day-week-month-total-count.svg"></a>
 
 <p align="left">
